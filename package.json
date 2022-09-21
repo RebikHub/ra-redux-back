@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^3.4.1",
     "forever": "^1.0.0",
     "koa": "^2.7.0",
     "koa-body": "^4.1.0",
     "koa-router": "^7.4.0",
-    "koa2-cors": "^2.0.6",
     "nanoid": "^2.0.3"
   },
   "devDependencies": {
